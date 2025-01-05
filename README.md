@@ -1,6 +1,8 @@
 # Global Superstore Analytics Project
 A comprehensive data analysis and visualization project using Python, focusing on the Global Superstore dataset.
 
+Live Link: https://dashapp-795931816520.northamerica-northeast1.run.app/
+
 ## Project Structure
 - Amisha_Mehta_FTP_Phase_1.py : Static visualization analysis
 - Amisha_Mehta_Phase_2.py : Interactive dashboard implementation
